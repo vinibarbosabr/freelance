@@ -57,7 +57,7 @@ My background is in **social communications** (advertising, journalism, and publ
 <br>Before joining the crypto industry, I have owned two businesses (event agency & e-commerce);
 <br>Moreover, I've worked in Banco do Brasil (Brazil's largest bank) and with Claro (LATAM's largest telecom).
 
-I'm currently learning how to code in **Rust** and **MultiversX** to improve my kenowledge and content creation.
+I'm currently learning how to code in **Rust** and **MultiversX** to improve my knowledge and content creation.
 
 ### On Social Platforms, *as of April 11, 2025*
 + 𝕏 ([/vinibarbosabr](https://x.com/vinibarbosabr)) - 9,200 followers (1.6k verified), 46K posts, 4% engagement rate;

@@ -53,6 +53,10 @@ In Brazil [pt-br], I have worked as an authorial writer with [**Cointimes**](htt
 
 Globally [en], I have worked as authorial writer and editor with [**Finbold**](https://finbold.com/author/vini/), [**xAlliance**](https://substack.com/home/post/p-159983148), the [**Nano Foundation** (volunteer contribution)](https://nano.org/pt/blog/author/Vini.Barbosa), and the **MultiversX Foundation**, powered by **xAlliance**, in a recent [blog post](https://multiversx.com/blog/andromeda-supernova-highspeed-highways).
 
+Freelance author for The Agorist Cipher Newsletter and Coinspeaker.
+
+Featured as a "crypto pundit" on a [Cointelegraph news](https://cointelegraph.com/news/monero-rallies-7-percent-hours-after-18-block-reorg) and as a "crypto commentator" on a [CoinDesk news](https://www.coindesk.com/web3/2025/09/15/monero-suffers-deepest-ever-blockchain-reorganization-invalidating-118-transactions). 
+
 My background is in **social communications** (advertising, journalism, and public relations) & **marketing**.
 <br>Before joining the crypto industry, I have owned two businesses (event agency & e-commerce);
 <br>Moreover, I've worked in Banco do Brasil (Brazil's largest bank) and with Claro (LATAM's largest telecom).

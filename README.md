@@ -6,7 +6,7 @@ This repository contains details on my freelance & content creation activities.
 
 ## Specialized Content
 Specialized content creation and editing on
-<br>**BLOCKCHAIN**, **CRYPTO**, **DEFI**, **OPEN SOURCE SOFTWARE**, **PRIVACY**, **RUST**, **AGORISM**, and related.
+<br>**CYBERSECURITY**, **CRYPTO**, **DEFI**, **OPEN-SOURCE SOFTWARE DEVELOPMENT**, **PRIVACY**, **RUST**, **AGORISM**, **AI**, and related.
 
 ## Services Offered
 In general, I offer **editing**, **writing**, and **consulting** services for the specialized content above.
@@ -44,16 +44,14 @@ Freelance services can be both in a **ghost** (under secrecy) or **authorial** m
 + **Demos**
 
 ## Contact
-[Telegram @ vinibarbosa](https://t.me/vinibarbosa) | Discord @ vinibarbosabr | [Proton Email](vinibarbosabr@proton.me)
+[Telegram @ vinibarbosa](https://t.me/vinibarbosa) | [Proton Email](vinibarbosabr@proton.me)
 
 ## Bio & Portfolio
 Working as a freelancer with specialized content creation since 2020, summing up over 10,000 hours of researching, writing, editing, and consulting.
 
 In Brazil [pt-br], I have worked as an authorial writer with [**Cointimes**](https://cointimes.com.br/author/vinib/) and [**Portal do Bitcoin**](https://portaldobitcoin.uol.com.br/author/vinibarbosadyor/), and provided ghostwriting services to **three of the leading Brazilian crypto exchanges**. Moreover, I offered weekly content consulting to **one of the most influential finance accounts in Brazil** (with over 200K followers on X an over 500K followers on Instagram) for its crypto-related contents (under NDA).
 
-Globally [en], I have worked as authorial writer and editor with [**Finbold**](https://finbold.com/author/vini/), [**xAlliance**](https://substack.com/home/post/p-159983148), the [**Nano Foundation** (volunteer contribution)](https://nano.org/pt/blog/author/Vini.Barbosa), and the **MultiversX Foundation**, powered by **xAlliance**, in a recent [blog post](https://multiversx.com/blog/andromeda-supernova-highspeed-highways).
-
-Freelance author for The Agorist Cipher Newsletter and Coinspeaker.
+Globally [en], I have worked as authorial writer and editor with [**Finbold**](https://finbold.com/author/vini/), [**Coinspeaker**](https://www.coinspeaker.com/author/vinibarbosa/), [**xAlliance**](https://substack.com/home/post/p-159983148), the [**Nano Foundation** (volunteer contribution)](https://nano.org/pt/blog/author/Vini.Barbosa), and the **MultiversX Foundation**, powered by **xAlliance**, in a recent [blog post](https://multiversx.com/blog/andromeda-supernova-highspeed-highways).
 
 Featured as a "crypto pundit" on a [Cointelegraph news](https://cointelegraph.com/news/monero-rallies-7-percent-hours-after-18-block-reorg) and as a "crypto commentator" on a [CoinDesk news](https://www.coindesk.com/web3/2025/09/15/monero-suffers-deepest-ever-blockchain-reorganization-invalidating-118-transactions). 
 
@@ -61,9 +59,8 @@ My background is in **social communications** (advertising, journalism, and publ
 <br>Before joining the crypto industry, I have owned two businesses (event agency & e-commerce);
 <br>Moreover, I've worked in Banco do Brasil (Brazil's largest bank) and with Claro (LATAM's largest telecom).
 
-I'm currently learning how to code in **Rust** and **MultiversX** to improve my knowledge and content creation.
+I'm currently learning how to code in **Rust** and cybersecurity on **TryHackMe** to improve my knowledge and content creation.
 
-### On Social Platforms, *as of April 11, 2025*
-+ 𝕏 ([/vinibarbosabr](https://x.com/vinibarbosabr)) - 9,200 followers (1.6k verified), 46K posts, 4% engagement rate;
-+ Youtube ([/@vinibarbosa](https://www.youtube.com/@vinibarbosabr)) - 140 subscribers, 12 videos;
-+ Substack - Contributing to two Substacks: [MultiversX Brasil](https://mvxbrasil.substack.com/) and [xAlliance](https://xalliance.substack.com/);
+### On Social Platforms, *as of Feb 21, 2026*
++ 𝕏 ([/vinibarbosabr](https://x.com/vinibarbosabr)) - 11,000 followers (2.1k verified), 58K posts, 3.6% engagement rate;
++ Substack - [**「thecoding」**](https://thecoding.substack.com/).

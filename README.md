@@ -62,5 +62,6 @@ My background is in **social communications** (advertising, journalism, and publ
 I'm currently learning how to code in **Rust** and cybersecurity on **TryHackMe** to improve my knowledge and content creation.
 
 ### On Social Platforms, *as of Feb 21, 2026*
-+ 𝕏 ([/vinibarbosabr](https://x.com/vinibarbosabr)) - 11,000 followers (2.1k verified), 58K posts, 3.6% engagement rate;
-+ Substack - [**「thecoding」**](https://thecoding.substack.com/).
++ 𝕏 - [**/vinibarbosabr**](https://x.com/vinibarbosabr) - 11,000 followers (2.1k verified), 58K posts, 3.6% engagement rate;
++ Substack - [**「thecoding」**](https://thecoding.substack.com/);
++ Mastodon - [**vinibarbosa@infosec.exchange**](https://infosec.exchange/vinibarbosa)
